@@ -1,0 +1,12 @@
+{
+  "target": "ace",
+  "chembl_id": "CHEMBL1808",
+  "extraction_date": "2026-06-19T04:17:17.471284",
+  "activity_types": [
+    "IC50",
+    "Ki"
+  ],
+  "confidence_score_min": 8,
+  "total_records": 952,
+  "unique_compounds": 761
+}

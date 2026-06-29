@@ -1,0 +1,12 @@
+{
+  "target": "egfr",
+  "chembl_id": "CHEMBL203",
+  "extraction_date": "2026-06-19T05:04:46.762843",
+  "activity_types": [
+    "IC50",
+    "Ki"
+  ],
+  "confidence_score_min": 8,
+  "total_records": 25824,
+  "unique_compounds": 14203
+}

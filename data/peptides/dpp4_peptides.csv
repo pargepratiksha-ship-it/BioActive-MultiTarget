@@ -1,0 +1,77 @@
+sequence,ic50_um,activity_label,source,protein_source,notes
+IP,3.5,active,Lacroix_2017,milk_casein,Diprotin B analog
+IPI,4.73,active,Umezawa_1984,synthetic,Diprotin A - classic DPP4 inhibitor
+VPL,15.8,active,Nongonierma_2014,milk_casein,Validated food-derived
+GPL,41.9,active,Nongonierma_2014,milk_casein,Food-derived peptide
+IPP,5.0,active,Nongonierma_2016,milk_casein,Well-studied tripeptide
+WR,44.3,active,Nongonierma_2014,milk_whey,Dipeptide
+VA,168.0,active,Lacroix_2017,multiple,Weak DPP4 inhibitor
+GP,41.6,active,Lacroix_2017,collagen,Collagen-derived dipeptide
+LP,56.7,active,Lacroix_2017,multiple,Dipeptide with Pro at P1
+AP,46.2,active,Lacroix_2017,collagen,Ala-Pro dipeptide
+PP,83.0,active,Nongonierma_2016,collagen,Di-proline
+FP,42.7,active,Nongonierma_2016,multiple,Phe-Pro dipeptide
+WP,44.7,active,Nongonierma_2016,multiple,Trp-Pro dipeptide
+TP,110.0,active,Lacroix_2017,multiple,Thr-Pro dipeptide
+YP,65.0,active,Lacroix_2017,milk_casein,Tyr-Pro dipeptide
+LPVPQ,43.5,active,Nongonierma_2014,milk_casein,Pentapeptide
+IPIQY,62.1,active,Nongonierma_2014,milk_casein,Pentapeptide from beta-casein
+FLQP,42.3,active,Nongonierma_2014,milk_casein,Tetrapeptide
+VPITPT,130.0,active,Nongonierma_2016,milk_casein,Hexapeptide
+LKPTPEGDL,180.0,active,Nongonierma_2016,milk_casein,Longer peptide weak activity
+IPAVF,44.7,active,Nongonierma_2014,milk_whey,Beta-lactoglobulin derived
+TPVVVPPFLQP,46.0,active,Tulipano_2015,milk_casein,11-mer casein peptide
+LPQNIPPL,46.0,active,Tulipano_2015,milk_casein,Casein-derived octapeptide
+GPVRGPFPIIV,82.0,active,Tulipano_2015,milk_casein,Casein-derived 11-mer
+YPFPGPIPN,35.0,active,Tulipano_2015,milk_casein,Beta-casomorphin related
+GPAG,98.0,active,Li_2018,collagen,Collagen tetrapeptide
+GPSGPAGK,125.0,active,Li_2018,collagen,Collagen octapeptide
+GPPGPA,140.0,active,Li_2018,collagen,Collagen hexapeptide
+GPAGAR,135.0,active,Li_2018,collagen,Collagen hexapeptide
+GPRP,88.0,active,Li_2018,collagen,Collagen tetrapeptide
+PGPIG,78.0,active,Hatanaka_2012,collagen,Collagen pentapeptide
+GPIG,95.0,active,Hatanaka_2012,collagen,Collagen tetrapeptide
+PPGP,72.0,active,Hatanaka_2012,collagen,Collagen tetrapeptide
+GPKGD,200.0,active,Li_2018,collagen,Weak collagen peptide
+GPPGPPGPP,180.0,active,Li_2018,collagen,Triple-repeat collagen fragment
+LPLP,78.6,active,Nongonierma_2016,milk_casein,Repeat motif peptide
+WLAHG,42.0,active,Power_2014,sardine,Fish-derived pentapeptide
+APLRW,18.0,active,Huang_2012,tuna,Marine-derived pentapeptide
+PGVGGPLGPIGPCYE,320.0,weakly_active,Zhang_2019,collagen,Long collagen fragment - weak
+VPGLAL,105.0,active,Huang_2012,fish,Marine fish hexapeptide
+MAGPHP,87.0,active,Jin_2020,fish,Marine peptide
+FDPFPK,38.0,active,Silveira_2013,milk_whey,Whey hexapeptide
+APGPAGP,155.0,active,Li_2018,collagen,Collagen heptapeptide
+GPP,95.0,active,Li_2018,collagen,Gly-Pro-Pro tripeptide
+GPA,128.0,active,Li_2018,collagen,Gly-Pro-Ala tripeptide
+GPSG,160.0,active,Li_2018,collagen,Collagen tetrapeptide
+SPGPW,21.0,active,Hatanaka_2012,gelatin,Gelatin pentapeptide
+IPGA,48.0,active,Hatanaka_2012,gelatin,Gelatin tetrapeptide
+MPGP,53.0,active,Hatanaka_2012,gelatin,Gelatin tetrapeptide
+GPAE,165.0,active,Li_2018,collagen,Collagen tetrapeptide
+GPRGA,98.0,active,Hatanaka_2012,collagen,Collagen pentapeptide
+AA,1500.0,inactive,Lacroix_2017,synthetic,No significant DPP4 inhibition
+GG,2000.0,inactive,Lacroix_2017,synthetic,No DPP4 activity
+EE,1800.0,inactive,Lacroix_2017,synthetic,Acidic dipeptide - no activity
+DD,2200.0,inactive,Lacroix_2017,synthetic,Acidic dipeptide - no activity
+KK,950.0,inactive,Lacroix_2017,synthetic,Basic dipeptide - very weak
+RR,1100.0,inactive,Lacroix_2017,synthetic,Basic dipeptide - no activity
+NN,1600.0,inactive,Lacroix_2017,synthetic,Polar dipeptide - no activity
+QQ,1400.0,inactive,Lacroix_2017,synthetic,Polar dipeptide - no activity
+SS,1900.0,inactive,Lacroix_2017,synthetic,Small polar - no activity
+TT,1700.0,inactive,Lacroix_2017,synthetic,Small polar - no activity
+EEEE,2500.0,inactive,synthetic,synthetic,Poly-glutamate - no activity
+KKKK,1200.0,inactive,synthetic,synthetic,Poly-lysine - no activity
+DDDD,2800.0,inactive,synthetic,synthetic,Poly-aspartate - no activity
+SSSS,2100.0,inactive,synthetic,synthetic,Poly-serine - no activity
+GGGG,2400.0,inactive,synthetic,synthetic,Poly-glycine - no activity
+NNNN,1800.0,inactive,synthetic,synthetic,Poly-asparagine - no activity
+RRRR,1300.0,inactive,synthetic,synthetic,Poly-arginine - no activity
+AAAA,1600.0,inactive,synthetic,synthetic,Poly-alanine - no activity
+EEEK,1900.0,inactive,synthetic,synthetic,Acidic peptide - no activity
+DDDG,2300.0,inactive,synthetic,synthetic,Acidic peptide - no activity
+SSSE,2000.0,inactive,synthetic,synthetic,Polar acidic - no activity
+TTTN,1750.0,inactive,synthetic,synthetic,Polar - no activity
+GGES,2100.0,inactive,synthetic,synthetic,Small polar mix - no activity
+EEKK,1100.0,inactive,synthetic,synthetic,Charged mix - no activity
+NQSS,1500.0,inactive,synthetic,synthetic,Polar mix - no activity

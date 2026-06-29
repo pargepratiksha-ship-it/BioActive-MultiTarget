@@ -1,0 +1,15 @@
+{
+  "target": "lipase",
+  "chembl_id": [
+    "CHEMBL1812",
+    "CHEMBL3864"
+  ],
+  "extraction_date": "2026-06-23T11:41:35.635936",
+  "activity_types": [
+    "IC50",
+    "Ki"
+  ],
+  "confidence_score_min": 8,
+  "total_records": 4763,
+  "unique_compounds": 3506
+}

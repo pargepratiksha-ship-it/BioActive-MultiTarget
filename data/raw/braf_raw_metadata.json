@@ -1,0 +1,12 @@
+{
+  "target": "braf",
+  "chembl_id": "CHEMBL5145",
+  "extraction_date": "2026-06-19T07:59:35.243052",
+  "activity_types": [
+    "IC50",
+    "Ki"
+  ],
+  "confidence_score_min": 8,
+  "total_records": 10850,
+  "unique_compounds": 6602
+}

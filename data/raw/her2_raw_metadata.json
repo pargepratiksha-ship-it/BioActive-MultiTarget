@@ -1,0 +1,12 @@
+{
+  "target": "her2",
+  "chembl_id": "CHEMBL1824",
+  "extraction_date": "2026-06-19T06:07:17.227129",
+  "activity_types": [
+    "IC50",
+    "Ki"
+  ],
+  "confidence_score_min": 8,
+  "total_records": 4869,
+  "unique_compounds": 3911
+}

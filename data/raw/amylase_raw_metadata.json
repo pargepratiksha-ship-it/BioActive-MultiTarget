@@ -1,0 +1,17 @@
+{
+  "target": "amylase",
+  "chembl_id": [
+    "CHEMBL2045",
+    "CHEMBL2478",
+    "CHEMBL6066863",
+    "CHEMBL5730"
+  ],
+  "extraction_date": "2026-06-23T11:39:51.751773",
+  "activity_types": [
+    "IC50",
+    "Ki"
+  ],
+  "confidence_score_min": 8,
+  "total_records": 451,
+  "unique_compounds": 388
+}

@@ -1,0 +1,12 @@
+{
+  "target": "vegfr2",
+  "chembl_id": "CHEMBL279",
+  "extraction_date": "2026-06-19T07:06:14.859663",
+  "activity_types": [
+    "IC50",
+    "Ki"
+  ],
+  "confidence_score_min": 8,
+  "total_records": 18230,
+  "unique_compounds": 13144
+}

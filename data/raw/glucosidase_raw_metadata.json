@@ -1,0 +1,12 @@
+{
+  "target": "glucosidase",
+  "chembl_id": "CHEMBL3833502",
+  "extraction_date": "2026-06-19T04:06:10.344449",
+  "activity_types": [
+    "IC50",
+    "Ki"
+  ],
+  "confidence_score_min": 8,
+  "total_records": 756,
+  "unique_compounds": 713
+}

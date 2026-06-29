@@ -1,0 +1,12 @@
+{
+  "target": "cdk2",
+  "chembl_id": "CHEMBL301",
+  "extraction_date": "2026-06-19T08:23:43.278211",
+  "activity_types": [
+    "IC50",
+    "Ki"
+  ],
+  "confidence_score_min": 8,
+  "total_records": 4705,
+  "unique_compounds": 3837
+}

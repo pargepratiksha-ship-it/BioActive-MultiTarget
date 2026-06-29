@@ -1,0 +1,14 @@
+{
+  "target": "DPP4",
+  "chembl_id": "CHEMBL284",
+  "extraction_date": "2026-06-19T01:31:37.029770",
+  "activity_types": [
+    "IC50",
+    "Ki"
+  ],
+  "confidence_score_min": 8,
+  "total_records": 6044,
+  "unique_compounds": 5034,
+  "ic50_count": 5357,
+  "ki_count": 687
+}
