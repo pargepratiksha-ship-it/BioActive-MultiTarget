@@ -1,0 +1,47 @@
+# Ignore data files
+data/raw/*.csv
+data/processed/*.csv
+data/benchmarks/*.csv
+
+# Models
+models/*.joblib
+
+# Logs
+logs/
+
+# Results
+results/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Processed data
+data/processed/
+
+# NumPy arrays
+*.npy
